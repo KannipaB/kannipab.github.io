@@ -1,0 +1,75 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+a {
+    color: #1e7e34;
+}
+
+a:hover {
+    color: #1e7e34;
+}
+
+.base {
+    padding: 30px;
+    padding-top: 100px;
+}
+
+.bg {
+    z-index: -1;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+.port {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 30%;
+}
+
+.profile-img img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+
+.desc img {
+    width: 50%;
+    padding: 30px 0;
+}
+
+.kp-work a {
+    margin: 15px 15px 15px 0;
+    font-size: 18px;
+}
+
+.kp-contact img {
+    margin: 30px 15px 0 0;
+    width: 35px;
+    height: 35px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .desc img {
+        width: 90%;
+    }
+
+    .base {
+        padding-top: 30px;
+    }
+
+    .bg {
+        width: 120%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .bg {
+        width: 100%;
+    }
+}
