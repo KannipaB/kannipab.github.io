@@ -14,7 +14,10 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1XfDk0ZKCvXnpSlHDuooa6FmH0k" />
   <component name="PropertiesComponent">
@@ -23,6 +26,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +68,7 @@
       <workItem from="1581585678874" duration="945000" />
       <workItem from="1581587514744" duration="1703000" />
       <workItem from="1581590742846" duration="666000" />
-      <workItem from="1616859748996" duration="696000" />
+      <workItem from="1616859748996" duration="1508000" />
     </task>
     <servers />
   </component>
