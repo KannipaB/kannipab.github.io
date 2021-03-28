@@ -19,8 +19,9 @@ a:hover {
 
 .bg {
     z-index: -1;
-    width: 100%;
+    width: 50%;
     position: fixed;
+    height: 100%;
     bottom: 0;
     right: 0;
 }
@@ -64,7 +65,7 @@ a:hover {
     }
 
     .bg {
-        width: 120%;
+        width: 100%;
     }
 }
 
